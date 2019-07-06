@@ -6,7 +6,6 @@ document.getElementById("predictButton").onclick = function() {
 
 $(document).ready(function(){
   $("#contestCode").on('keyup keypress', function(event){
-    console.log(event.keyCode);
     if(event.keyCode == 13) {
       event.preventDefault();      
       $("#predictButton").trigger("click");
