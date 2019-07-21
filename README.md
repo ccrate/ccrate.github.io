@@ -1,1 +1,1 @@
-# [https://ccrate.github.io](https://ccrate.github.io)
+# Migrated to [https://ccpredict.herokuapp.com/](https://ccpredict.herokuapp.com/)
